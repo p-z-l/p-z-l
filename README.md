@@ -1,5 +1,5 @@
 ### Hello, world!👋
-I'm a student developer, focusing on Swift/Python, and sometimes Objective-C.
+👨🏼‍🎓I'm a student developer, focusing on Swift/Python, and sometimes Objective-C.
 
 #### Help me with my coding skills:
 - ⭐️ Star if you think my project is helpful
@@ -7,4 +7,4 @@ I'm a student developer, focusing on Swift/Python, and sometimes Objective-C.
 - 🧑‍💻 Contribute to my projects
 
 #### Contact me:
-Email: `zl2005.luo@icloud.com`/`peter2005.luo@outlook.com`
+📧 Email: `zl2005.luo@icloud.com`/`peter2005.luo@outlook.com`
