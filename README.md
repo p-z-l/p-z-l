@@ -1,4 +1,4 @@
-### Hello, world!👋
+### Hello, world!👋🏽
 👨🏼‍🎓I'm a student developer, focusing on Swift/Python, and sometimes Objective-C.
 
 #### Help me with my coding skills:
