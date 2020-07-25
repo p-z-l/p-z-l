@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/p-z-l/p-z-l/master/header.svg" width="80%">
+	<img src="https://raw.githubusercontent.com/p-z-l/p-z-l/master/header.svg" width="800px", height="400px">
 	<br>
 </div>
 👨🏼‍🎓I'm a student developer, focusing on Swift/Python, and sometimes Objective-C.
